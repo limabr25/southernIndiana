@@ -1,0 +1,33 @@
+
+
+.page-header{
+color: #000033;
+font-family: "Times New Roman", Times, serif;
+}
+
+body{
+background-color: #FF9966;
+}
+
+h1{
+color: #000033;
+	font-family: Georgia, serif;
+}
+
+h2{
+	color: #CC0033;
+font-family: Georgia, serif;	
+}
+
+.container-fluid{
+background-color: #FF9999;
+color: 000066;
+}
+
+a{
+	color: #000033;
+}
+
+img{
+	border-radius: 25%;
+}
