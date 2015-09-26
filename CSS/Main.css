@@ -21,7 +21,12 @@ font-family: Georgia, serif;
 
 .container-fluid{
 background-color: #FF9999;
-color: 000066;
+color: #000033;
+}
+
+h3{
+	color: #000033;
+	font-family: Georgia, serif;
 }
 
 a{
@@ -30,4 +35,8 @@ a{
 
 img{
 	border-radius: 25%;
+}
+
+a.navbar-brand{
+	color: #000033;
 }
