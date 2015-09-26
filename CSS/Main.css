@@ -1,0 +1,61 @@
+
+
+.page-header{
+color: #000033;
+font-family: "Times New Roman", Times, serif;
+}
+
+body{
+background-color: #FF9966;
+}
+
+h1{
+color: #000033;
+	font-family: Georgia, serif;
+}
+
+h2{
+	color: #CC0033;
+font-family: Georgia, serif;	
+}
+
+.container-fluid{
+background-color: #FF9999;
+color: #000033;
+}
+
+h3{
+	color: #000033;
+	font-family: Georgia, serif;
+}
+
+a{
+	color: #000033;
+}
+
+img{
+	border-radius: 25%;
+}
+
+a.navbar-brand{
+	color: #000033;
+}
+
+a:link{
+	text-decoration: underline;
+	color: #FF0033;
+}
+
+a:visited{
+	color: #339999;
+}
+
+a:hover{
+	color: #CC0066;
+	font-weight: bold;
+}
+
+a:active{
+	color: #FF0066;
+}
+
